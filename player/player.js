@@ -32,7 +32,7 @@ if (!videoId) {
             iframe.width = "854";
             iframe.height = "480";
             iframe.src =
-                `https://www.youtube.com/embed/${video.video_id}`;
+                `https://www.youtube-nocookie.com/embed/${video.video_id}`;
 
             iframe.allowFullscreen = true;
 
