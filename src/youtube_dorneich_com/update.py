@@ -1,13 +1,15 @@
 import feedparser
 import json
+import os
 import re
 import urllib.request
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 
 
 HANDLES_FILE = "data/handles.txt"
 CHANNEL_ID_CACHE_FILE = "data/channel_ids.json"
 OUTPUT_FILE = "videos.json"
+LOOKBACK_DAYS = int(os.environ.get("LOOKBACK_DAYS", "60"))
 
 
 def load_channel_id_cache():
@@ -120,6 +122,14 @@ def main():
         all_videos.extend(videos)
 
     save_channel_id_cache(channel_id_cache)
+
+    cutoff = datetime.now(timezone.utc) - timedelta(days=LOOKBACK_DAYS)
+    all_videos = [
+        video for video in all_videos
+        if datetime.fromisoformat(
+            video["published"].replace("Z", "+00:00")
+        ) >= cutoff
+    ]
 
 
     all_videos.sort(

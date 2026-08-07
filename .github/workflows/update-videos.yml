@@ -32,6 +32,13 @@ on:
     - cron: "0 7 * * 0,6"   # weekends (Sat+Sun): once, at 2-3am ET (7am UTC)
   # ───────────────────────────────────────────────────────────────────
 
+env:
+  # ── LOOKBACK CONFIG ────────────────────────────────────────────────
+  # How far back to keep videos, counting from today. Videos published
+  # before this many days ago are dropped from videos.json.
+  LOOKBACK_DAYS: "60"   # ~2 months
+  # ───────────────────────────────────────────────────────────────────
+
 permissions:
   contents: write
 
