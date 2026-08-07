@@ -24,12 +24,8 @@ on:
   #   "0 9,18 * * *"      twice a day, 09:00 and 18:00 UTC
   #   "0 * * * 1-5"       every hour, weekdays only
   #   "0 0 * * 0,6"       once a day at midnight UTC, weekends only
-  #
-  # 07:00 UTC is used below because it lands at 2am EST (winter, UTC-5)
-  # and 3am EDT (summer, UTC-4) — i.e. always inside the 2-3am ET window,
-  # with no DST-aware logic needed.
   schedule:
-    - cron: "0 7 * * 0,6"   # weekends (Sat+Sun): once, at 2-3am ET (7am UTC)
+    - cron: "0 7 * * *" #daily: once, at 2-3am ET (7am UTC)
   # ───────────────────────────────────────────────────────────────────
 
 env:
