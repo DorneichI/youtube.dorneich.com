@@ -69,6 +69,9 @@ def get_videos(channel_id):
     videos = []
 
     for entry in feed.entries:
+        if "/shorts/" in entry.link:
+            continue
+
         video_id = entry.yt_videoid
 
         videos.append({
