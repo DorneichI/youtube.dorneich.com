@@ -17,3 +17,8 @@ serving that data.
 
 This project is completely vibecoded — built by prompting an AI
 coding assistant rather than hand-crafted. Expect rough edges.
+
+## License
+
+GNU General Public License v3.0 — see [LICENSE](LICENSE).
+Copyright (C) 2026 Immanuel Dorneich.
