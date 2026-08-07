@@ -38,6 +38,7 @@ if (!videoId) {
 
             playerContainer.innerHTML = "";
             playerContainer.appendChild(iframe);
+            playerContainer.appendChild(titleElement);
 
 
             const channel = document.createElement("p");
