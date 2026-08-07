@@ -67,4 +67,16 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add videos.json data/channel_ids.json
           git commit -m "Update videos.json"
-          git push
+          for attempt in 1 2 3; do
+            if git push; then
+              exit 0
+            fi
+
+            if [ "$attempt" -eq 3 ]; then
+              echo "Push failed after 3 attempts"
+              exit 1
+            fi
+
+            echo "Push failed; rebasing onto latest origin/${GITHUB_REF_NAME:-main} and retrying..."
+            git pull --rebase origin "${GITHUB_REF_NAME:-main}"
+          done
