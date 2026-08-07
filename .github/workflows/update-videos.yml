@@ -52,7 +52,7 @@ jobs:
         run: uv sync
 
       - name: Run update script
-        run: uv run python scripts/update.py
+        run: uv run youtube-dorneich-com
 
       - name: Commit and push if changed
         run: |
