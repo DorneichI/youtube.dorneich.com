@@ -1,6 +1,6 @@
 const videosContainer = document.getElementById("videos");
 
-fetch("videos.json")
+fetch("videos.json", { cache: "no-store" })
     .then(response => response.json())
     .then(videos => {
 
