@@ -1,0 +1,67 @@
+name: Update video feed
+
+on:
+  # Lets you trigger a refresh manually from the Actions tab.
+  workflow_dispatch: {}
+
+  # ── SCHEDULE CONFIG ────────────────────────────────────────────────
+  # Each line below is one independent "days + frequency" rule.
+  # Add, remove, or edit lines to change how often the feed refreshes.
+  # All times are UTC (GitHub Actions does not support other timezones).
+  #
+  # Cron format:  minute hour day-of-month month day-of-week
+  #                 │      │       │          │        │
+  #                 │      │       │          │        └─ 0-6 (Sun-Sat), comma/range ok
+  #                 │      │       │          └────────── 1-12
+  #                 │      │       └───────────────────── 1-31
+  #                 │      └───────────────────────────── 0-23
+  #                 └──────────────────────────────────── 0-59
+  #
+  # Examples you can swap in:
+  #   "0 * * * *"        every hour, every day
+  #   "0 */6 * * *"       every 6 hours, every day
+  #   "0 0 * * *"         once a day at midnight UTC
+  #   "0 9,18 * * *"      twice a day, 09:00 and 18:00 UTC
+  #   "0 * * * 1-5"       every hour, weekdays only
+  #   "0 0 * * 0,6"       once a day at midnight UTC, weekends only
+  #
+  # 07:00 UTC is used below because it lands at 2am EST (winter, UTC-5)
+  # and 3am EDT (summer, UTC-4) — i.e. always inside the 2-3am ET window,
+  # with no DST-aware logic needed.
+  schedule:
+    - cron: "0 7 * * 0,6"   # weekends (Sat+Sun): once, at 2-3am ET (7am UTC)
+  # ───────────────────────────────────────────────────────────────────
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-videos
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+
+      - name: Install dependencies
+        run: uv sync
+
+      - name: Run update script
+        run: uv run python scripts/update.py
+
+      - name: Commit and push if changed
+        run: |
+          if git diff --quiet -- videos.json; then
+            echo "No changes to videos.json"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add videos.json
+          git commit -m "Update videos.json"
+          git push
