@@ -86,9 +86,12 @@ def main():
 
         print(f"Processing {handle}")
 
-        channel_id = get_channel_id(handle)
-
-        videos = get_videos(channel_id)
+        try:
+            channel_id = get_channel_id(handle)
+            videos = get_videos(channel_id)
+        except Exception as error:
+            print(f"Skipping {handle}: {error}")
+            continue
 
         all_videos.extend(videos)
 
