@@ -9,7 +9,7 @@ if (!videoId) {
     playerContainer.textContent = "No video selected.";
 } else {
 
-    fetch("../videos.json")
+    fetch("../videos.json", { cache: "no-store" })
         .then(response => response.json())
         .then(videos => {
 
