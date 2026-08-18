@@ -1,5 +1,53 @@
 [
   {
+    "video_id": "J1WoNuemKOg",
+    "channel": "Veritasium",
+    "title": "Total Solar Eclipse From Space",
+    "url": "https://www.youtube.com/watch?v=J1WoNuemKOg",
+    "published": "2026-08-17T14:30:16+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/J1WoNuemKOg/hqdefault.jpg"
+  },
+  {
+    "video_id": "iOxkucMbGOI",
+    "channel": "ZDF heute-show",
+    "title": "Mülltrennung, Recycling & Fast Fashion: Die dreckige Wahrheit über unseren Müll | heute-show spezial",
+    "url": "https://www.youtube.com/watch?v=iOxkucMbGOI",
+    "published": "2026-08-14T20:30:23+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/iOxkucMbGOI/hqdefault.jpg"
+  },
+  {
+    "video_id": "-Ft5BrmUg1I",
+    "channel": "I did a thing",
+    "title": "I made a fully automatic hammer",
+    "url": "https://www.youtube.com/watch?v=-Ft5BrmUg1I",
+    "published": "2026-08-14T19:00:38+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/-Ft5BrmUg1I/hqdefault.jpg"
+  },
+  {
+    "video_id": "0zn1pGRgEoo",
+    "channel": "Stand-up Maths",
+    "title": "Can Count Binface win?",
+    "url": "https://www.youtube.com/watch?v=0zn1pGRgEoo",
+    "published": "2026-08-12T06:54:48+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/0zn1pGRgEoo/hqdefault.jpg"
+  },
+  {
+    "video_id": "nSi9vZv2AkU",
+    "channel": "ZDF heute-show",
+    "title": "Bushido im Bundestag und enge Hosen im Weißen Haus: Wer gewinnt das Politik-Quiz? | heute-show extra",
+    "url": "https://www.youtube.com/watch?v=nSi9vZv2AkU",
+    "published": "2026-08-07T20:30:14+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/nSi9vZv2AkU/hqdefault.jpg"
+  },
+  {
+    "video_id": "RpslsMqPFWA",
+    "channel": "Stuff Made Here",
+    "title": "I made an apple peel itself",
+    "url": "https://www.youtube.com/watch?v=RpslsMqPFWA",
+    "published": "2026-08-05T22:30:42+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/RpslsMqPFWA/hqdefault.jpg"
+  },
+  {
     "video_id": "Cyl3X88KEgg",
     "channel": "Kurzgesagt – In a Nutshell",
     "title": "Why Humanity Will Never Leave The Solar System",
@@ -8,12 +56,28 @@
     "thumbnail": "https://i.ytimg.com/vi/Cyl3X88KEgg/hqdefault.jpg"
   },
   {
+    "video_id": "wt4p2oalmRY",
+    "channel": "Veritasium",
+    "title": "Is spider web really stronger than steel?",
+    "url": "https://www.youtube.com/watch?v=wt4p2oalmRY",
+    "published": "2026-08-02T13:21:11+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/wt4p2oalmRY/hqdefault.jpg"
+  },
+  {
     "video_id": "ti2qiU_JTUQ",
     "channel": "Steve Mould",
     "title": "The Euler Disc Is The Wrong Shape",
     "url": "https://www.youtube.com/watch?v=ti2qiU_JTUQ",
     "published": "2026-08-01T15:57:07+00:00",
     "thumbnail": "https://i.ytimg.com/vi/ti2qiU_JTUQ/hqdefault.jpg"
+  },
+  {
+    "video_id": "Z-c7tDucKps",
+    "channel": "ZDF heute-show",
+    "title": "Nackte Politiker und unerwartete Küsse: Das seriöseste Politik-Quiz jemals | heute-show extra",
+    "url": "https://www.youtube.com/watch?v=Z-c7tDucKps",
+    "published": "2026-07-31T20:30:01+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/Z-c7tDucKps/hqdefault.jpg"
   },
   {
     "video_id": "cNYSOHWbkJU",
@@ -40,6 +104,14 @@
     "thumbnail": "https://i.ytimg.com/vi/vS6HEes8daw/hqdefault.jpg"
   },
   {
+    "video_id": "tL9Lw250spc",
+    "channel": "Veritasium",
+    "title": "Why does every mammal get 1 billion heartbeats in their life?",
+    "url": "https://www.youtube.com/watch?v=tL9Lw250spc",
+    "published": "2026-07-25T17:29:09+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/tL9Lw250spc/hqdefault.jpg"
+  },
+  {
     "video_id": "C_0xBbEFjLk",
     "channel": "Quincy Sandbank",
     "title": "I Bought And Restored \"Old\" Technology To Prove The Economy Is Imploding",
@@ -48,12 +120,28 @@
     "thumbnail": "https://i.ytimg.com/vi/C_0xBbEFjLk/hqdefault.jpg"
   },
   {
+    "video_id": "GK2pZ_oVU1o",
+    "channel": "Veritasium",
+    "title": "The Scariest Chart in Electrical Engineering",
+    "url": "https://www.youtube.com/watch?v=GK2pZ_oVU1o",
+    "published": "2026-07-14T18:03:28+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/GK2pZ_oVU1o/hqdefault.jpg"
+  },
+  {
     "video_id": "1EyN9_QO4_A",
     "channel": "Steve Mould",
     "title": "The Arm Spin That Stops a Fall",
     "url": "https://www.youtube.com/watch?v=1EyN9_QO4_A",
     "published": "2026-07-09T14:46:20+00:00",
     "thumbnail": "https://i.ytimg.com/vi/1EyN9_QO4_A/hqdefault.jpg"
+  },
+  {
+    "video_id": "ZJ8KThKAfbs",
+    "channel": "Stand-up Maths",
+    "title": "Has an AI discovered new maths?",
+    "url": "https://www.youtube.com/watch?v=ZJ8KThKAfbs",
+    "published": "2026-07-06T16:25:01+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/ZJ8KThKAfbs/hqdefault.jpg"
   },
   {
     "video_id": "B-46uG6raX4",
@@ -78,6 +166,14 @@
     "url": "https://www.youtube.com/watch?v=zLganMVbY8g",
     "published": "2026-06-30T22:11:30+00:00",
     "thumbnail": "https://i.ytimg.com/vi/zLganMVbY8g/hqdefault.jpg"
+  },
+  {
+    "video_id": "5Dvu7qiM5rg",
+    "channel": "Boy Boy",
+    "title": "Can I Sneak This Boat Through A Military Blockade?",
+    "url": "https://www.youtube.com/watch?v=5Dvu7qiM5rg",
+    "published": "2026-06-30T15:34:32+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/5Dvu7qiM5rg/hqdefault.jpg"
   },
   {
     "video_id": "RCXEsJYuz6U",
@@ -110,6 +206,14 @@
     "url": "https://www.youtube.com/watch?v=YxJIHbHXVrs",
     "published": "2026-06-24T00:45:37+00:00",
     "thumbnail": "https://i.ytimg.com/vi/YxJIHbHXVrs/hqdefault.jpg"
+  },
+  {
+    "video_id": "mvcesPWvUIc",
+    "channel": "Veritasium",
+    "title": "We've Been Using The Wrong Science In Court For 50 years",
+    "url": "https://www.youtube.com/watch?v=mvcesPWvUIc",
+    "published": "2026-06-22T14:40:50+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/mvcesPWvUIc/hqdefault.jpg"
   },
   {
     "video_id": "iRRpvuMG7AM",
@@ -240,6 +344,14 @@
     "thumbnail": "https://i.ytimg.com/vi/ea0X-DWVOZo/hqdefault.jpg"
   },
   {
+    "video_id": "qcPS9KKJ5Vg",
+    "channel": "I did a thing",
+    "title": "My Homemade Jet Boat Is Terrifying",
+    "url": "https://www.youtube.com/watch?v=qcPS9KKJ5Vg",
+    "published": "2026-05-22T15:00:06+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/qcPS9KKJ5Vg/hqdefault.jpg"
+  },
+  {
     "video_id": "oAlWcmQ4fNc",
     "channel": "CaseyNeistat",
     "title": "She Destroyed My Custom Sunglasses",
@@ -262,6 +374,22 @@
     "url": "https://www.youtube.com/watch?v=qhwino3_t_Y",
     "published": "2026-05-16T14:59:58+00:00",
     "thumbnail": "https://i.ytimg.com/vi/qhwino3_t_Y/hqdefault.jpg"
+  },
+  {
+    "video_id": "XllQPr8FtPE",
+    "channel": "Stand-up Maths",
+    "title": "The paper scale system is broken.",
+    "url": "https://www.youtube.com/watch?v=XllQPr8FtPE",
+    "published": "2026-05-14T16:00:49+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/XllQPr8FtPE/hqdefault.jpg"
+  },
+  {
+    "video_id": "ry9TxE2H7ck",
+    "channel": "GIFGAS",
+    "title": "Tsunami Island",
+    "url": "https://www.youtube.com/watch?v=ry9TxE2H7ck",
+    "published": "2026-05-13T07:30:03+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/ry9TxE2H7ck/hqdefault.jpg"
   },
   {
     "video_id": "kNbMEsKLjX8",
@@ -304,12 +432,36 @@
     "thumbnail": "https://i.ytimg.com/vi/Z-nf6lTcsII/hqdefault.jpg"
   },
   {
+    "video_id": "kH_bSvf7EVA",
+    "channel": "Stand-up Maths",
+    "title": "What is up with UK bridge height signs?",
+    "url": "https://www.youtube.com/watch?v=kH_bSvf7EVA",
+    "published": "2026-04-27T19:19:57+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/kH_bSvf7EVA/hqdefault.jpg"
+  },
+  {
     "video_id": "WtxPV8kwW1o",
     "channel": "PewDiePie",
     "title": "Never been this disappointed..",
     "url": "https://www.youtube.com/watch?v=WtxPV8kwW1o",
     "published": "2026-04-23T12:38:06+00:00",
     "thumbnail": "https://i.ytimg.com/vi/WtxPV8kwW1o/hqdefault.jpg"
+  },
+  {
+    "video_id": "jjbG9dl7rTY",
+    "channel": "Ben Walker",
+    "title": "Sugar spoon manufacturing in my apartment",
+    "url": "https://www.youtube.com/watch?v=jjbG9dl7rTY",
+    "published": "2026-04-17T20:34:48+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/jjbG9dl7rTY/hqdefault.jpg"
+  },
+  {
+    "video_id": "2OfjZ3ORJfc",
+    "channel": "Stuff Made Here",
+    "title": "Robot golf vs holes that keep getting harder",
+    "url": "https://www.youtube.com/watch?v=2OfjZ3ORJfc",
+    "published": "2026-04-15T20:01:57+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/2OfjZ3ORJfc/hqdefault.jpg"
   },
   {
     "video_id": "WtQ64nSbdY4",
@@ -326,6 +478,38 @@
     "url": "https://www.youtube.com/watch?v=S7UM5lSgAg8",
     "published": "2026-04-11T13:00:44+00:00",
     "thumbnail": "https://i.ytimg.com/vi/S7UM5lSgAg8/hqdefault.jpg"
+  },
+  {
+    "video_id": "r6Mo5IB2NbE",
+    "channel": "Boy Boy",
+    "title": "The Weird World Of Mercenary Influencers",
+    "url": "https://www.youtube.com/watch?v=r6Mo5IB2NbE",
+    "published": "2026-04-10T13:46:26+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/r6Mo5IB2NbE/hqdefault.jpg"
+  },
+  {
+    "video_id": "ACCZRo2p-38",
+    "channel": "GIFGAS",
+    "title": "A Night on Muzil",
+    "url": "https://www.youtube.com/watch?v=ACCZRo2p-38",
+    "published": "2026-04-07T19:51:45+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/ACCZRo2p-38/hqdefault.jpg"
+  },
+  {
+    "video_id": "x3dE-NJ1UDQ",
+    "channel": "Stand-up Maths",
+    "title": "How to break Magic the Gathering.",
+    "url": "https://www.youtube.com/watch?v=x3dE-NJ1UDQ",
+    "published": "2026-03-31T22:41:38+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/x3dE-NJ1UDQ/hqdefault.jpg"
+  },
+  {
+    "video_id": "SqT83zcSvTM",
+    "channel": "GIFGAS",
+    "title": "Journey to the Adriatic Sea",
+    "url": "https://www.youtube.com/watch?v=SqT83zcSvTM",
+    "published": "2026-03-30T17:00:04+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/SqT83zcSvTM/hqdefault.jpg"
   },
   {
     "video_id": "g_xMKhKUC7s",
@@ -360,12 +544,36 @@
     "thumbnail": "https://i.ytimg.com/vi/jAHF7L_Fh9Q/hqdefault.jpg"
   },
   {
+    "video_id": "kahGSss6SsU",
+    "channel": "Stand-up Maths",
+    "title": "Calculating pi from coin flips (without randomness)",
+    "url": "https://www.youtube.com/watch?v=kahGSss6SsU",
+    "published": "2026-03-14T10:01:04+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/kahGSss6SsU/hqdefault.jpg"
+  },
+  {
     "video_id": "yzXZ7cZXifo",
     "channel": "colinfurze",
     "title": "The MAGNET Suspension SKATEBOARD",
     "url": "https://www.youtube.com/watch?v=yzXZ7cZXifo",
     "published": "2026-03-12T16:01:36+00:00",
     "thumbnail": "https://i.ytimg.com/vi/yzXZ7cZXifo/hqdefault.jpg"
+  },
+  {
+    "video_id": "IY0pf0-Daew",
+    "channel": "Stand-up Maths",
+    "title": "Calculating pi with a lunar rover (Moon Pi Update!)",
+    "url": "https://www.youtube.com/watch?v=IY0pf0-Daew",
+    "published": "2026-03-09T11:24:22+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/IY0pf0-Daew/hqdefault.jpg"
+  },
+  {
+    "video_id": "AFNmwFpyB3E",
+    "channel": "I did a thing",
+    "title": "Making a 2000rpm birthing machine",
+    "url": "https://www.youtube.com/watch?v=AFNmwFpyB3E",
+    "published": "2026-03-07T14:00:13+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/AFNmwFpyB3E/hqdefault.jpg"
   },
   {
     "video_id": "-0JKHuzJ67A",
@@ -376,12 +584,44 @@
     "thumbnail": "https://i.ytimg.com/vi/-0JKHuzJ67A/hqdefault.jpg"
   },
   {
+    "video_id": "kT4p1GXq4HY",
+    "channel": "Stand-up Maths",
+    "title": "The magic of adding random noise to black and white images.",
+    "url": "https://www.youtube.com/watch?v=kT4p1GXq4HY",
+    "published": "2026-03-01T17:26:33+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/kT4p1GXq4HY/hqdefault.jpg"
+  },
+  {
+    "video_id": "MkfHD2ShE5s",
+    "channel": "mitxela",
+    "title": "Simple Screw Counter",
+    "url": "https://www.youtube.com/watch?v=MkfHD2ShE5s",
+    "published": "2026-02-28T14:16:56+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/MkfHD2ShE5s/hqdefault.jpg"
+  },
+  {
     "video_id": "aV4j5pXLP-I",
     "channel": "PewDiePie",
     "title": "I Trained My Own AI... It beat ChatGPT",
     "url": "https://www.youtube.com/watch?v=aV4j5pXLP-I",
     "published": "2026-02-27T08:53:18+00:00",
     "thumbnail": "https://i.ytimg.com/vi/aV4j5pXLP-I/hqdefault.jpg"
+  },
+  {
+    "video_id": "CYjD9cpxT18",
+    "channel": "Stand-up Maths",
+    "title": "When maths marketing goes wrong.",
+    "url": "https://www.youtube.com/watch?v=CYjD9cpxT18",
+    "published": "2026-02-23T16:05:33+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/CYjD9cpxT18/hqdefault.jpg"
+  },
+  {
+    "video_id": "NfUGFB-oOoc",
+    "channel": "GIFGAS",
+    "title": "Lost in Kyiv",
+    "url": "https://www.youtube.com/watch?v=NfUGFB-oOoc",
+    "published": "2026-02-20T17:20:03+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/NfUGFB-oOoc/hqdefault.jpg"
   },
   {
     "video_id": "QWXDH-UBzBM",
@@ -406,6 +646,22 @@
     "url": "https://www.youtube.com/watch?v=vbhbvkYIx3A",
     "published": "2026-02-15T23:14:21+00:00",
     "thumbnail": "https://i.ytimg.com/vi/vbhbvkYIx3A/hqdefault.jpg"
+  },
+  {
+    "video_id": "oA85M9JHsW0",
+    "channel": "Michael Reeves",
+    "title": "I Built a Dog Catapult",
+    "url": "https://www.youtube.com/watch?v=oA85M9JHsW0",
+    "published": "2026-02-13T17:17:16+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/oA85M9JHsW0/hqdefault.jpg"
+  },
+  {
+    "video_id": "uqu_dLYnn8s",
+    "channel": "GIFGAS",
+    "title": "Journey across Ukraine",
+    "url": "https://www.youtube.com/watch?v=uqu_dLYnn8s",
+    "published": "2026-01-25T00:17:56+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/uqu_dLYnn8s/hqdefault.jpg"
   },
   {
     "video_id": "lJIvq7jmHxA",
@@ -440,6 +696,14 @@
     "thumbnail": "https://i.ytimg.com/vi/XwBZx1cXEdM/hqdefault.jpg"
   },
   {
+    "video_id": "JQB8aNKyeao",
+    "channel": "Stuff Made Here",
+    "title": "Making an autocorrect mini golf club (part 1)",
+    "url": "https://www.youtube.com/watch?v=JQB8aNKyeao",
+    "published": "2026-01-01T04:51:16+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/JQB8aNKyeao/hqdefault.jpg"
+  },
+  {
     "video_id": "6jYcjNbvqh4",
     "channel": "PewDiePie",
     "title": "CLOSING A CHAPTER",
@@ -456,12 +720,44 @@
     "thumbnail": "https://i.ytimg.com/vi/yqlFqV80Azc/hqdefault.jpg"
   },
   {
+    "video_id": "hPDSYQj6Cuw",
+    "channel": "GIFGAS",
+    "title": "Exploring Fully Stocked Nuclear Bunkers",
+    "url": "https://www.youtube.com/watch?v=hPDSYQj6Cuw",
+    "published": "2025-12-13T19:00:47+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/hPDSYQj6Cuw/hqdefault.jpg"
+  },
+  {
     "video_id": "BjGHyQhYwHU",
     "channel": "The Slow Mo Guys",
     "title": "Paint Shockwaves on Drum with Robot Camera at 10,000 FPS - The Slow Mo Guys",
     "url": "https://www.youtube.com/watch?v=BjGHyQhYwHU",
     "published": "2025-12-12T20:55:25+00:00",
     "thumbnail": "https://i.ytimg.com/vi/BjGHyQhYwHU/hqdefault.jpg"
+  },
+  {
+    "video_id": "TNWl-0rle4A",
+    "channel": "Stand-up Maths",
+    "title": "Why do all random graphs end up identical?",
+    "url": "https://www.youtube.com/watch?v=TNWl-0rle4A",
+    "published": "2025-12-11T17:40:22+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/TNWl-0rle4A/hqdefault.jpg"
+  },
+  {
+    "video_id": "r8DCXla898s",
+    "channel": "Boy Boy",
+    "title": "We Snuck Controversial Art Into A Famous Art Show",
+    "url": "https://www.youtube.com/watch?v=r8DCXla898s",
+    "published": "2025-12-11T12:44:27+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/r8DCXla898s/hqdefault.jpg"
+  },
+  {
+    "video_id": "eeVaUNPxXy8",
+    "channel": "Stand-up Maths",
+    "title": "New shape discovered!",
+    "url": "https://www.youtube.com/watch?v=eeVaUNPxXy8",
+    "published": "2025-12-05T16:46:22+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/eeVaUNPxXy8/hqdefault.jpg"
   },
   {
     "video_id": "kxs3yNjlzkg",
@@ -480,12 +776,52 @@
     "thumbnail": "https://i.ytimg.com/vi/gV_AnL2o3D0/hqdefault.jpg"
   },
   {
+    "video_id": "yoR2obq4YUw",
+    "channel": "Stand-up Maths",
+    "title": "The fewest items of clothes to never repeat an outfit.",
+    "url": "https://www.youtube.com/watch?v=yoR2obq4YUw",
+    "published": "2025-11-26T10:20:54+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/yoR2obq4YUw/hqdefault.jpg"
+  },
+  {
+    "video_id": "JrLSfSh43oA",
+    "channel": "Stand-up Maths",
+    "title": "This random noise won an Oscar.",
+    "url": "https://www.youtube.com/watch?v=JrLSfSh43oA",
+    "published": "2025-11-23T16:34:24+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/JrLSfSh43oA/hqdefault.jpg"
+  },
+  {
     "video_id": "ZRIBNLUXbZo",
     "channel": "Outdoor Boys",
     "title": "Building an Off Grid Forge on My Alaskan Homestead",
     "url": "https://www.youtube.com/watch?v=ZRIBNLUXbZo",
     "published": "2025-11-22T12:01:14+00:00",
     "thumbnail": "https://i.ytimg.com/vi/ZRIBNLUXbZo/hqdefault.jpg"
+  },
+  {
+    "video_id": "b96uyn_5Q6Y",
+    "channel": "I did a thing",
+    "title": "I Farmed Crabs In My Garage. Was It Worth It?",
+    "url": "https://www.youtube.com/watch?v=b96uyn_5Q6Y",
+    "published": "2025-11-21T14:01:09+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/b96uyn_5Q6Y/hqdefault.jpg"
+  },
+  {
+    "video_id": "2XUKxM7ZBao",
+    "channel": "Stand-up Maths",
+    "title": "How many holes does this mug have?",
+    "url": "https://www.youtube.com/watch?v=2XUKxM7ZBao",
+    "published": "2025-11-18T08:59:23+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/2XUKxM7ZBao/hqdefault.jpg"
+  },
+  {
+    "video_id": "HpQ_HQdJvCs",
+    "channel": "N-O-D-E",
+    "title": "BuildList: Your Personal Online Factory",
+    "url": "https://www.youtube.com/watch?v=HpQ_HQdJvCs",
+    "published": "2025-11-17T20:16:02+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/HpQ_HQdJvCs/hqdefault.jpg"
   },
   {
     "video_id": "6FJ-kY7TNA0",
@@ -520,6 +856,14 @@
     "thumbnail": "https://i.ytimg.com/vi/qqX2E9aI0Fg/hqdefault.jpg"
   },
   {
+    "video_id": "EI5PkqR0sjE",
+    "channel": "N-O-D-E",
+    "title": "The Pinouts Book: Updated & Now Printable",
+    "url": "https://www.youtube.com/watch?v=EI5PkqR0sjE",
+    "published": "2025-11-05T22:59:37+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/EI5PkqR0sjE/hqdefault.jpg"
+  },
+  {
     "video_id": "v0afQ6w3Bjw",
     "channel": "SmarterEveryDay",
     "title": "Refueling a NUCLEAR REACTOR - Smarter Every Day 311",
@@ -536,12 +880,28 @@
     "thumbnail": "https://i.ytimg.com/vi/qw4fDU18RcU/hqdefault.jpg"
   },
   {
+    "video_id": "3EXhNO55sGg",
+    "channel": "N-O-D-E",
+    "title": "Super EASY Mods for the Casio F-91W",
+    "url": "https://www.youtube.com/watch?v=3EXhNO55sGg",
+    "published": "2025-10-30T20:28:50+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/3EXhNO55sGg/hqdefault.jpg"
+  },
+  {
     "video_id": "6kUONc-EjX4",
     "channel": "Quincy Sandbank",
     "title": "How Temu's Gambling MiniGames Rewire Your Brain",
     "url": "https://www.youtube.com/watch?v=6kUONc-EjX4",
     "published": "2025-10-26T21:06:13+00:00",
     "thumbnail": "https://i.ytimg.com/vi/6kUONc-EjX4/hqdefault.jpg"
+  },
+  {
+    "video_id": "PvCbDtx2jTI",
+    "channel": "GIFGAS",
+    "title": "Abandoned France pt.2",
+    "url": "https://www.youtube.com/watch?v=PvCbDtx2jTI",
+    "published": "2025-10-18T18:30:07+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/PvCbDtx2jTI/hqdefault.jpg"
   },
   {
     "video_id": "BUtzl6b0uKU",
@@ -560,6 +920,22 @@
     "thumbnail": "https://i.ytimg.com/vi/Ctwc8t5CsQs/hqdefault.jpg"
   },
   {
+    "video_id": "EZPZFGtzne8",
+    "channel": "Boy Boy",
+    "title": "We finally stopped touching ourselves.",
+    "url": "https://www.youtube.com/watch?v=EZPZFGtzne8",
+    "published": "2025-10-11T13:29:57+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/EZPZFGtzne8/hqdefault.jpg"
+  },
+  {
+    "video_id": "voaQSiLJxeE",
+    "channel": "Ben Walker",
+    "title": "Sugar spoon",
+    "url": "https://www.youtube.com/watch?v=voaQSiLJxeE",
+    "published": "2025-10-10T19:50:29+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/voaQSiLJxeE/hqdefault.jpg"
+  },
+  {
     "video_id": "FS7Uf9ddWoE",
     "channel": "The Slow Mo Guys",
     "title": "How not to Water Ski at 1000FPS - The Slow Mo Guys",
@@ -568,12 +944,36 @@
     "thumbnail": "https://i.ytimg.com/vi/FS7Uf9ddWoE/hqdefault.jpg"
   },
   {
+    "video_id": "XXKjDkmxixA",
+    "channel": "Stand-up Maths",
+    "title": "Are these the luckiest dice rolls in TV history?",
+    "url": "https://www.youtube.com/watch?v=XXKjDkmxixA",
+    "published": "2025-09-30T13:34:27+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/XXKjDkmxixA/hqdefault.jpg"
+  },
+  {
+    "video_id": "pGagZQPg7jY",
+    "channel": "GIFGAS",
+    "title": "Abandoned France",
+    "url": "https://www.youtube.com/watch?v=pGagZQPg7jY",
+    "published": "2025-09-25T18:00:39+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/pGagZQPg7jY/hqdefault.jpg"
+  },
+  {
     "video_id": "dt_CG_xRnrY",
     "channel": "SmarterEveryDay",
     "title": "Pompeii Changed How I Think About The Roman Empire - Smarter Every Day 310",
     "url": "https://www.youtube.com/watch?v=dt_CG_xRnrY",
     "published": "2025-09-07T20:37:06+00:00",
     "thumbnail": "https://i.ytimg.com/vi/dt_CG_xRnrY/hqdefault.jpg"
+  },
+  {
+    "video_id": "vJ43DjwLPGA",
+    "channel": "Stuff Made Here",
+    "title": "Why is this task so difficult for machines?",
+    "url": "https://www.youtube.com/watch?v=vJ43DjwLPGA",
+    "published": "2025-08-30T17:27:50+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/vJ43DjwLPGA/hqdefault.jpg"
   },
   {
     "video_id": "2bfXG3453us",
