@@ -32,7 +32,7 @@ env:
   # ── LOOKBACK CONFIG ────────────────────────────────────────────────
   # How far back to keep videos, counting from today. Videos published
   # before this many days ago are dropped from videos.json.
-  LOOKBACK_DAYS: "60"   # ~2 months
+  LOOKBACK_DAYS: "365"   # ~2 months
   # ───────────────────────────────────────────────────────────────────
 
 permissions:
