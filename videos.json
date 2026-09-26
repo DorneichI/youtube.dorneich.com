@@ -1,5 +1,13 @@
 [
   {
+    "video_id": "umB9eZcw8aE",
+    "channel": "ZDF heute-show",
+    "title": "CDU-Absturz & Linken-Sieg | Tankrabatt 3.0 | Milliarden für Kampfjets | heute-show vom 25.09.2026",
+    "url": "https://www.youtube.com/watch?v=umB9eZcw8aE",
+    "published": "2026-09-25T20:30:26+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/umB9eZcw8aE/hqdefault.jpg"
+  },
+  {
     "video_id": "aZzOWnEWgww",
     "channel": "mitxela",
     "title": "Fluid Simulation on Flipdots",
@@ -54,14 +62,6 @@
     "url": "https://www.youtube.com/watch?v=_L1Rim7-IPo",
     "published": "2026-09-19T13:00:35+00:00",
     "thumbnail": "https://i.ytimg.com/vi/_L1Rim7-IPo/hqdefault.jpg"
-  },
-  {
-    "video_id": "tK_f8hZLzZQ",
-    "channel": "ZDF heute-show",
-    "title": "Kanzler in der Krise | Wahlen in MV & Berlin | Weltuntergang durch KI? | heute-show vom 18.09.2026",
-    "url": "https://www.youtube.com/watch?v=tK_f8hZLzZQ",
-    "published": "2026-09-18T20:30:39+00:00",
-    "thumbnail": "https://i.ytimg.com/vi/tK_f8hZLzZQ/hqdefault.jpg"
   },
   {
     "video_id": "0NY2gAftzJE",
@@ -958,13 +958,5 @@
     "url": "https://www.youtube.com/watch?v=FS7Uf9ddWoE",
     "published": "2025-10-07T16:54:03+00:00",
     "thumbnail": "https://i.ytimg.com/vi/FS7Uf9ddWoE/hqdefault.jpg"
-  },
-  {
-    "video_id": "pGagZQPg7jY",
-    "channel": "GIFGAS",
-    "title": "Abandoned France",
-    "url": "https://www.youtube.com/watch?v=pGagZQPg7jY",
-    "published": "2025-09-25T18:00:39+00:00",
-    "thumbnail": "https://i.ytimg.com/vi/pGagZQPg7jY/hqdefault.jpg"
   }
 ]
