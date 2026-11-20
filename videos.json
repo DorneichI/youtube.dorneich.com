@@ -1,5 +1,85 @@
 [
   {
+    "video_id": "uXuQF_PPg5U",
+    "channel": "Veritasium",
+    "title": "Randomness is a lie. Let me explain",
+    "url": "https://www.youtube.com/watch?v=uXuQF_PPg5U",
+    "published": "2026-11-18T20:29:44+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/uXuQF_PPg5U/hqdefault.jpg"
+  },
+  {
+    "video_id": "i8mrwS5QZQE",
+    "channel": "Ben Walker",
+    "title": "I think PayByPhone is stealing ~$54,630,342/yr from their users",
+    "url": "https://www.youtube.com/watch?v=i8mrwS5QZQE",
+    "published": "2026-11-17T20:23:29+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/i8mrwS5QZQE/hqdefault.jpg"
+  },
+  {
+    "video_id": "beWipV80nRw",
+    "channel": "Stand-up Maths",
+    "title": "But when will GTA 7 come out?",
+    "url": "https://www.youtube.com/watch?v=beWipV80nRw",
+    "published": "2026-11-17T18:17:03+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/beWipV80nRw/hqdefault.jpg"
+  },
+  {
+    "video_id": "RBF8RYO1teY",
+    "channel": "colinfurze",
+    "title": "20 Years of Building What Shouldn't Exist",
+    "url": "https://www.youtube.com/watch?v=RBF8RYO1teY",
+    "published": "2026-11-15T19:00:17+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/RBF8RYO1teY/hqdefault.jpg"
+  },
+  {
+    "video_id": "ACuZPc1fXpk",
+    "channel": "ZDF heute-show",
+    "title": "Haushaltsloch und Merz-Geburtstagsfeier: Alles wichtiger als das Klima? | heute-show vom 13.11.2026",
+    "url": "https://www.youtube.com/watch?v=ACuZPc1fXpk",
+    "published": "2026-11-13T21:30:08+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/ACuZPc1fXpk/hqdefault.jpg"
+  },
+  {
+    "video_id": "fEjvSbI_PT4",
+    "channel": "Kurzgesagt – In a Nutshell",
+    "title": "Dying Is Complicated",
+    "url": "https://www.youtube.com/watch?v=fEjvSbI_PT4",
+    "published": "2026-11-10T15:00:01+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/fEjvSbI_PT4/hqdefault.jpg"
+  },
+  {
+    "video_id": "w3bVfeleYaA",
+    "channel": "I did a thing",
+    "title": "I made a bizzare invention that blows up clouds",
+    "url": "https://www.youtube.com/watch?v=w3bVfeleYaA",
+    "published": "2026-11-08T13:00:02+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/w3bVfeleYaA/hqdefault.jpg"
+  },
+  {
+    "video_id": "I7IaqRJMi9w",
+    "channel": "PewDiePie",
+    "title": "I Failed",
+    "url": "https://www.youtube.com/watch?v=I7IaqRJMi9w",
+    "published": "2026-11-07T13:45:09+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/I7IaqRJMi9w/hqdefault.jpg"
+  },
+  {
+    "video_id": "AuKHfMYq8YI",
+    "channel": "ZDF heute-show",
+    "title": "Wovor fürchten sich die Linken am meisten? Lutz beim Halloween-Parteitag | heute-show vom 06.11.2026",
+    "url": "https://www.youtube.com/watch?v=AuKHfMYq8YI",
+    "published": "2026-11-07T09:00:05+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/AuKHfMYq8YI/hqdefault.jpg"
+  },
+  {
+    "video_id": "KfODG5REyss",
+    "channel": "Veritasium",
+    "title": "I finally saw quantum physics with my own eyes... (It's spookier than I expected)",
+    "url": "https://www.youtube.com/watch?v=KfODG5REyss",
+    "published": "2026-11-04T15:52:59+00:00",
+    "thumbnail": "https://i.ytimg.com/vi/KfODG5REyss/hqdefault.jpg"
+  },
+  {
     "video_id": "BuRyQYf03xA",
     "channel": "Stuff Made Here",
     "title": "My dog won't stay out of mud so I made this...",
@@ -40,14 +120,6 @@
     "thumbnail": "https://i.ytimg.com/vi/zuaVFnj4SWY/hqdefault.jpg"
   },
   {
-    "video_id": "gm0N-Hjg0H8",
-    "channel": "ZDF heute-show",
-    "title": "Audi-Chef im Trump-Wahlkampf | AfD vs. EU | Reiche bremst Energiewende | heute-show vom 30.10.2026",
-    "url": "https://www.youtube.com/watch?v=gm0N-Hjg0H8",
-    "published": "2026-10-30T21:30:08+00:00",
-    "thumbnail": "https://i.ytimg.com/vi/gm0N-Hjg0H8/hqdefault.jpg"
-  },
-  {
     "video_id": "sxur0bhmkFM",
     "channel": "colinfurze",
     "title": "Digging a Secret Garage Part 8 The Last 6 Months!!",
@@ -74,7 +146,7 @@
   {
     "video_id": "eyZEqSPeMwg",
     "channel": "Veritasium",
-    "title": "No device could prove Einstein wrong... until now",
+    "title": "Relativity is so much weirder than we thought...",
     "url": "https://www.youtube.com/watch?v=eyZEqSPeMwg",
     "published": "2026-10-23T18:46:44+00:00",
     "thumbnail": "https://i.ytimg.com/vi/eyZEqSPeMwg/hqdefault.jpg"
@@ -160,14 +232,6 @@
     "thumbnail": "https://i.ytimg.com/vi/6gsZY_-kT3U/hqdefault.jpg"
   },
   {
-    "video_id": "ONAuUyml0yI",
-    "channel": "Veritasium",
-    "title": "We're trying something new...",
-    "url": "https://www.youtube.com/watch?v=ONAuUyml0yI",
-    "published": "2026-09-30T19:19:10+00:00",
-    "thumbnail": "https://i.ytimg.com/vi/ONAuUyml0yI/hqdefault.jpg"
-  },
-  {
     "video_id": "9xwU-ochogk",
     "channel": "Stand-up Maths",
     "title": "We tested Babish's 15,000% claim!",
@@ -214,14 +278,6 @@
     "url": "https://www.youtube.com/watch?v=w7pbOehiKQQ",
     "published": "2026-09-21T23:30:28+00:00",
     "thumbnail": "https://i.ytimg.com/vi/w7pbOehiKQQ/hqdefault.jpg"
-  },
-  {
-    "video_id": "JsBZOcqZerk",
-    "channel": "Veritasium",
-    "title": "The Insane Real Engineering of the Nazi Enigma Machine",
-    "url": "https://www.youtube.com/watch?v=JsBZOcqZerk",
-    "published": "2026-09-21T17:49:57+00:00",
-    "thumbnail": "https://i.ytimg.com/vi/JsBZOcqZerk/hqdefault.jpg"
   },
   {
     "video_id": "c79PsbkHw4A",
@@ -728,14 +784,6 @@
     "thumbnail": "https://i.ytimg.com/vi/kahGSss6SsU/hqdefault.jpg"
   },
   {
-    "video_id": "yzXZ7cZXifo",
-    "channel": "colinfurze",
-    "title": "The MAGNET Suspension SKATEBOARD",
-    "url": "https://www.youtube.com/watch?v=yzXZ7cZXifo",
-    "published": "2026-03-12T16:01:36+00:00",
-    "thumbnail": "https://i.ytimg.com/vi/yzXZ7cZXifo/hqdefault.jpg"
-  },
-  {
     "video_id": "IY0pf0-Daew",
     "channel": "Stand-up Maths",
     "title": "Calculating pi with a lunar rover (Moon Pi Update!)",
@@ -758,14 +806,6 @@
     "url": "https://www.youtube.com/watch?v=-0JKHuzJ67A",
     "published": "2026-03-06T20:30:16+00:00",
     "thumbnail": "https://i.ytimg.com/vi/-0JKHuzJ67A/hqdefault.jpg"
-  },
-  {
-    "video_id": "kT4p1GXq4HY",
-    "channel": "Stand-up Maths",
-    "title": "The magic of adding random noise to black and white images.",
-    "url": "https://www.youtube.com/watch?v=kT4p1GXq4HY",
-    "published": "2026-03-01T17:26:33+00:00",
-    "thumbnail": "https://i.ytimg.com/vi/kT4p1GXq4HY/hqdefault.jpg"
   },
   {
     "video_id": "MkfHD2ShE5s",
@@ -848,14 +888,6 @@
     "thumbnail": "https://i.ytimg.com/vi/jW7M8H99x7Y/hqdefault.jpg"
   },
   {
-    "video_id": "2UN7IJvDqHk",
-    "channel": "PewDiePie",
-    "title": "I Spent 24 Hours Drawing at an Anime Studio",
-    "url": "https://www.youtube.com/watch?v=2UN7IJvDqHk",
-    "published": "2026-01-16T15:33:02+00:00",
-    "thumbnail": "https://i.ytimg.com/vi/2UN7IJvDqHk/hqdefault.jpg"
-  },
-  {
     "video_id": "XwBZx1cXEdM",
     "channel": "SmarterEveryDay",
     "title": "Why Do Spinning Things Do This? - Smarter Every Day 312",
@@ -910,45 +942,5 @@
     "url": "https://www.youtube.com/watch?v=b96uyn_5Q6Y",
     "published": "2025-11-21T14:01:09+00:00",
     "thumbnail": "https://i.ytimg.com/vi/b96uyn_5Q6Y/hqdefault.jpg"
-  },
-  {
-    "video_id": "HpQ_HQdJvCs",
-    "channel": "N-O-D-E",
-    "title": "BuildList: Your Personal Online Factory",
-    "url": "https://www.youtube.com/watch?v=HpQ_HQdJvCs",
-    "published": "2025-11-17T20:16:02+00:00",
-    "thumbnail": "https://i.ytimg.com/vi/HpQ_HQdJvCs/hqdefault.jpg"
-  },
-  {
-    "video_id": "6FJ-kY7TNA0",
-    "channel": "Outdoor Boys",
-    "title": "4 Days Camping, Hunting for Dead Walrus & Trolling for Bears",
-    "url": "https://www.youtube.com/watch?v=6FJ-kY7TNA0",
-    "published": "2025-11-15T12:00:23+00:00",
-    "thumbnail": "https://i.ytimg.com/vi/6FJ-kY7TNA0/hqdefault.jpg"
-  },
-  {
-    "video_id": "93zzKz-2PZU",
-    "channel": "Outdoor Boys",
-    "title": "3 Days Camping & Fishing Alaska's Wilderness (Near Dick Proenneke's Cabin)",
-    "url": "https://www.youtube.com/watch?v=93zzKz-2PZU",
-    "published": "2025-11-08T12:00:30+00:00",
-    "thumbnail": "https://i.ytimg.com/vi/93zzKz-2PZU/hqdefault.jpg"
-  },
-  {
-    "video_id": "L1c7Nu3iR8c",
-    "channel": "The Slow Mo Guys",
-    "title": "Why You Shouldn't Touch a Radio Tower at 200,000 FPS",
-    "url": "https://www.youtube.com/watch?v=L1c7Nu3iR8c",
-    "published": "2025-11-07T16:15:06+00:00",
-    "thumbnail": "https://i.ytimg.com/vi/L1c7Nu3iR8c/hqdefault.jpg"
-  },
-  {
-    "video_id": "EI5PkqR0sjE",
-    "channel": "N-O-D-E",
-    "title": "The Pinouts Book: Updated & Now Printable",
-    "url": "https://www.youtube.com/watch?v=EI5PkqR0sjE",
-    "published": "2025-11-05T22:59:37+00:00",
-    "thumbnail": "https://i.ytimg.com/vi/EI5PkqR0sjE/hqdefault.jpg"
   }
 ]
